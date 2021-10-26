@@ -2,7 +2,7 @@
 INSTRUÇÕES DE USO – CRUD DE AGENDAMENTO DO CONSULTÓRIO BC
 ALUNO: BERNARDO OLIVEIRA CUNHA // DRE: 120036446
 
-O arquivo com o projeto está comprimido neste repostitório, basta fazer download (clicando em "View Raw")para ter acesso a ele.
+O arquivo com o projeto está comprimido neste repostitório, basta fazer download (clicando em "View raw" dentro de PROJETO CRUD.zip) para ter acesso a ele.
 
 A pasta “Agenda” neste arquivo contém o projeto inteiro, construído usando JSF 2.3, SQLITE 3.7.2 e PRIMEFACES 10.0.0. Dentro de Agenda, na pasta “web”, estão os arquivos web, responsáveis pelas páginas de interface com o usuário.  Também dentro de Agenda, em “src/java/com/br/agenda”, estão as classes de Java que compõe o projeto. Para executar o projeto, recomenda-se abrir a pasta Agenda em uma IDE de Java, como Netbeans, e rodar o código. Ademais, recomenda-se usar o navegador Internet Explorer, que foi usado para realizar os testes deste projeto e respondeu adequadamente aos testes realizados. 
 Uma alteração fundamental para o sucesso do programa, que deverá ser feita pelo usuário, é definir o caminho para o banco de dados SQLite. No código que segue, o caminho está configurado para o local no qual eu decidi construir um banco de dados na minha máquina, mas este caminho pode ser alterado de acordo com o desejo do usuário. Este caminho está definido na variável “url”, contida tanto na classe Conexao.java quanto na classe OperacoesBD.java. É fundamental que os caminhos contidos nas duas variáveis homônimas sejam o mesmo. 
